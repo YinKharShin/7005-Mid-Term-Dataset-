@@ -1,5 +1,4 @@
-Variable,DescriptionÊ,
-,,
+Variable,Description,
 ID,Customer ID,
 TENURE,Customer duration with Kation since registration date,
 AGE,Customer age,
